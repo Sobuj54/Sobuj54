@@ -15,9 +15,9 @@ I believe in continuous learning and staying updated with the latest technologie
 
 ## 🌐 Connect with Me
 
-- [LinkedIn]([https://www.linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/sobuj-ahmed-8a782b177/))
-- [Twitter]([https://twitter.com/yourtwitter](https://twitter.com/Sobuj03794254))
-- [Portfolio Website]([https://www.yourportfolio.com](https://sobuj-55.vercel.app/))
+- [LinkedIn](https://www.linkedin.com/in/sobuj-ahmed-8a782b177/)
+- [Twitter](https://twitter.com/Sobuj03794254)
+- [Portfolio Website](https://sobuj-55.vercel.app/)
 
 ## 🤝 Let's Collaborate
 
