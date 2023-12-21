@@ -9,6 +9,8 @@ I'm a passionate frontend web developer based in Bangladesh. With a creative min
 - **Tools:** Git, npm
 - **Design:** Responsive Design, UI/UX Principles
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sobuj54)]
+
 ## 🌱 Learning & Growing
 
 I believe in continuous learning and staying updated with the latest technologies. Currently, I'm exploring React to enhance my skill set.
