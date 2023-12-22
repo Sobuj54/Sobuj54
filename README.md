@@ -13,8 +13,6 @@ I'm a passionate frontend web developer based in Bangladesh. With a creative min
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sobuj54)
 
-![GitHub metrics](https://metrics.lecoq.io/Sobuj54) 
-
 ## 🌱 Learning & Growing
 
 I believe in continuous learning and staying updated with the latest technologies. Currently, I'm exploring React to enhance my skill set.
