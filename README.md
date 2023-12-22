@@ -6,7 +6,7 @@ I'm a passionate frontend web developer based in Bangladesh. With a creative min
 
 - **Languages:** HTML, CSS, JavaScript
 - **Frameworks/Libraries:** ReactJS
-- - **Backend Technologies:** Node.js, Express.js
+- **Backend Technologies:** Node.js, Express.js
 - **Database:** MongoDB
 - **Tools:** Git, npm
 - **Design:** Responsive Design, UI/UX Principles
