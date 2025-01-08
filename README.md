@@ -27,4 +27,3 @@ I believe in continuous learning and staying updated with the latest technologie
 
 I'm always open to new opportunities, collaborations, and interesting projects. Feel free to reach out if you'd like to discuss anything or just have a chat about web development.
 
-Happy coding! 🚀
