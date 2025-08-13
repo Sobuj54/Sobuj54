@@ -1,21 +1,24 @@
-# Hi there, I'm Sobuj Ahmed 👋
+# Hi, I'm Md Sobuj Ahmed 👋
 
-I'm a passionate frontend web developer based in Bangladesh. With a creative mindset and a keen eye for detail, I strive to craft engaging and user-friendly experiences on the web. My journey in the world of technology began with a curiosity-driven exploration, and since then, I've been on an exciting ride of learning, building, and growing.
+I’m a web developer from Bangladesh with a strong focus on building clean, responsive, and user-friendly applications. Over the past year, I’ve worked on a variety of projects that combine modern technology with practical problem-solving, from restaurant management systems to real estate marketplaces.
 
-## 🚀 Skills and Expertise
+I enjoy working with tools like **React.js**, **Tailwind CSS**, **Node.js**, and **MongoDB**, and I always aim to write code that is both functional and easy to maintain. For me, good development is about more than just making something work—it’s about creating an experience that feels smooth and natural for the end user.
 
-- **Languages:** HTML, CSS, JavaScript
-- **Frameworks/Libraries:** ReactJS, Tailwindcss
-- **Backend Technologies:** Node.js, Express.js, Mongoose
-- **Database:** MongoDB
-- **Tools:** Git, npm
-- **Design:** Responsive Design, UI/UX Principles
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sobuj54)
+## 🚀 Skills
+- **Frontend:** HTML, CSS, JavaScript (ES6+), TypeScript, React.js, Tailwind CSS, Firebase  
+- **Backend:** Node.js, Express.js, MongoDB, Mongoose, JWT, REST APIs, Bcrypt  
+- **Tools:** Git & GitHub, Postman, Chrome DevTools  
+- **Also familiar with:** Context API, Multer, Cloudinary, SQL, PostgreSQL  
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sobuj54)](https://github.com/Sobuj54/github-readme-stats)
 
 ## 🌱 Learning & Growing
 
-I believe in continuous learning and staying updated with the latest technologies. Currently, I'm exploring React to enhance my skill set.
+I believe in continuous learning and staying updated with the latest technologies.
 
 ## 🌐 Connect with Me
 
